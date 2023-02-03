@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://user-images.githubusercontent.com/75988913/216717717-dcd5530c-1d6a-4e75-bc3c-8bd69fbfe07f.png) My Stats 
+![image](https://github.com/Mdr-Overflow/Mdr-Overflow/blob/main/stats_icon.png) My Stats 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdr-Overflow&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
