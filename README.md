@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>  My Stats  </h2> 
-
-![image](https://github.com/Mdr-Overflow/Mdr-Overflow/blob/main/stats_icon.png)
+<h2> ![image](https://github.com/Mdr-Overflow/Mdr-Overflow/blob/main/stats_icon.png)  My Stats  </h2> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdr-Overflow&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
