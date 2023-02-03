@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 
 
-<h2 width:100%  text-align:center > <img src="https://github.com/Mdr-Overflow/Mdr-Overflow/blob/main/stats_icon.png" display:inline-block margin: 0 auto;>  My Stats  </h2 >  
+<h1 align="center"> &nbsp; <img src="https://github.com/Mdr-Overflow/Mdr-Overflow/blob/main/stats_icon.png" align="center"; padding-left: 25px > <p align="center"> &ensp; My Stats  </p > </h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdr-Overflow&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdr-Overflow&langs_count=8&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdr-Overflow&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) &emsp; &emsp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdr-Overflow&langs_count=8&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
